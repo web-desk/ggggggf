@@ -26,7 +26,8 @@ RUN set -ex; \
         net-tools \
         curl \
         git \
-	    wget \
+        wget \
+        virtualbox \
         libtasn1-3-bin \
         libglu1-mesa \
         libqt5webkit5 \
